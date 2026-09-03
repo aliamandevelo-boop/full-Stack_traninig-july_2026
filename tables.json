@@ -1,0 +1,76 @@
+{
+    "tables": [
+        {
+            "table": 101,
+            "size": "Big",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 102,
+            "size": "Big",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 103,
+            "size": "Medium",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 104,
+            "size": "Medium",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 105,
+            "size": "Medium",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 106,
+            "size": "Small",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 107,
+            "size": "Small",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        },
+        {
+            "table": 108,
+            "size": "Small",
+            "customer": "",
+            "date": "",
+            "time": "",
+            "booked_at": "",
+            "hours": 0
+        }
+    ]
+}

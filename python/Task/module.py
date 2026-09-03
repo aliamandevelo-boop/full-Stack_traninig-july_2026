@@ -1,0 +1,1 @@
+c:\pakages\mymodule package lib\mymodule.py
