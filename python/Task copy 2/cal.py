@@ -10,10 +10,10 @@ try:
     choice = int(input("Enter your choice: "))
 
     if choice == 1:
-        print("Answers =", a + b)
+        print("Answer =", a + b)
 
     elif choice == 2:
-        print("Answers =", a - b)
+        print("Answer=", a - b)
 
     elif choice == 3:
         print("Answer =", a * b)
