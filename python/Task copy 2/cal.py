@@ -13,7 +13,7 @@ try:
         print("Answer =", a + b)
 
     elif choice == 2:
-        print("Answer=", a - b)
+        print("Answes=", a - b)
 
     elif choice == 3:
         print("Answer =", a * b)
