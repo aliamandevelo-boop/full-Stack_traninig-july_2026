@@ -10,7 +10,7 @@ try:
     choice = int(input("Enter your choice: "))
 
     if choice == 1:
-        print("Answer =", a + b)
+        print("Answers =", a + b)
 
     elif choice == 2:
         print("Answer =", a - b)
